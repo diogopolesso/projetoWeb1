@@ -17,4 +17,3 @@ Site corporativo com foco em portfólio e serviços de tecnologia.
 - Portfólio — cards com overlay interativo e filtro por categoria
 - Contato — formulário funcional com links diretos para LinkedIn, GitHub e e-mail
 - Footer — links sociais e navegação
-
